@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ishini495" alt="ishini495" /></a> </p>
 
-- 🔭 I’m currently working on **CURA Healthcare Service Automation Testing Project**
+- 🔭 I’m currently working on **Booking.com Web Site reservation Automation Testing Project**
 
 - 🌱 I’m currently learning **Java Test Automation Engineer – Zero to Hero course in Udemy**
 
