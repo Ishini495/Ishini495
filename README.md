@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ishini Dulanjali</h1>
-<h3 align="center">A passionate Quality Assurance from Sri Lanaka</h3>
+<h3 align="center">Associate QA Engineer | Automation | API | Performance Testing | AI Chatbot Testing</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishini495&label=Profile%20views&color=0e75b6&style=flat" alt="ishini495" /> </p>
 
